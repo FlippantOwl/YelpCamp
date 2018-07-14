@@ -19,3 +19,7 @@
     height: 400px;
     width: 100%;
 }
+
+#headerIcon { 
+    margin-right: 20px;
+}
